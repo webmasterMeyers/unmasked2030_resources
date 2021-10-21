@@ -45,7 +45,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://pubmed.ncbi.nlm.nih.gov/10749457/
 1. https://pubmed.ncbi.nlm.nih.gov/10819345/
 1. https://pubmed.ncbi.nlm.nih.gov/8684876/
-1. https://www.fda.gov/files/vaccines,%20blood%208420biologics/published/Package-insert--Gardasil.pdf
+1. https://www.fda.gov/files/vaccines,%20blood%20&%20biologics/published/Package-insert---Gardasil.pdf *good*
 1. https://pubmed.ncbi.nlm.nih.gov/17494925
 1. http://www.violinet.org/vaxjo/vaxjo_detail.php?c_vaxjo_id=79
 1. https://www.atsdr.cdc.gov/toxprofiles/tp22-c3.pdf
