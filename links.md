@@ -25,31 +25,28 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.nap.edu/read/12709/chapter/2
 1. https://jamanetwork.com/journals/jama/fullarticle/2673970
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids/
-
-## TODO: correct nim to nlm  in these urls##
-
-1. https://pubmed.ncbi.nim.nih.gov/8823852/
-1. https://pubmed.ncbi.nim.nih.gov/20173677/
-1. https://pubmed.ncbi.nim.nih.gov/8337029/
-1. https://pubmed.ncbi.nim.nih.gov/9194110/
-1. https://pubmed.ncbi.nim.nih.gov/3550021/
-1. https://pubmed.ncbi.nim.nih.gov/3495775/
-1. https://pubmed.ncbi.nim.nih.gov/3340474/
-1. https://pubmed.ncbi.nim.nih.gov/8438810/
-1. https://pubmed.ncbi.nim.nih.gov/3537248/
-1. https://pubmed.ncbi.nim.nih.gov/1995721/
-1. https://pubmed.ncbi.nim.nih.gov/854227/
+1. https://pubmed.ncbi.nlm.nih.gov/8823852/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/20173677/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/8337029/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/9194110/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/3550021/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/3495775/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/3340474/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/8438810/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/3537248/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/1995721/ *good*
+1. https://pubmed.ncbi.nlm.nih.gov/854227/ *good*
 
 **screen shot 2**
 
-1. https://pubmed.ncbi.nim.nih.gov/8072818/
-1. https://pubmed.ncbi.nim.nih.gov/8866803/
-1. https://pubmed.ncbi.nim.nih.gov/9521941/
-1. https://pubmed.ncbi.nim.nih.gov/10749457/
-1. https://pubmed.ncbi.nim.nih.gov/10819345/
-1. https://pubmed.ncbi.nim.nih.gov/8684876/
+1. https://pubmed.ncbi.nlm.nih.gov/8072818/
+1. https://pubmed.ncbi.nlm.nih.gov/8866803/
+1. https://pubmed.ncbi.nlm.nih.gov/9521941/
+1. https://pubmed.ncbi.nlm.nih.gov/10749457/
+1. https://pubmed.ncbi.nlm.nih.gov/10819345/
+1. https://pubmed.ncbi.nlm.nih.gov/8684876/
 1. https://www.fda.gov/files/vaccines,%20blood%208420biologics/published/Package-insert--Gardasil.pdf
-1. https://pubmed.ncbi.nim.nih.gov/17494925
+1. https://pubmed.ncbi.nlm.nih.gov/17494925
 1. http://www.violinet.org/vaxjo/vaxjo_detail.php?c_vaxjo_id=79
 1. https://www.atsdr.cdc.gov/toxprofiles/tp22-c3.pdf
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-contain-dangerous-ingredients-small-doses-can-be-unhealthy-disease-is-a-product-of-genetics-and-environment/
@@ -59,24 +56,24 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://en.wikipedia.org/wiki/List_of_vaccine_ingredients
 1. http://www.ourstolenfuture.com/NewScience/lowdose/lowdoseeffects.htm
 1. https://endocrinedisruption.org/assets/media/documents/2007-04-30_does_the_dose_make_the_poison.pdf
-1. https://pubmed.ncbi.nim.nih.gov/30589214/
-1. https://pubmed.ncbi.nim.nih.gov/25765285/
-1. https://pubmed.ncbi.nim.nih.gov/22918959/
+1. https://pubmed.ncbi.nlm.nih.gov/30589214/
+1. https://pubmed.ncbi.nlm.nih.gov/25765285/
+1. https://pubmed.ncbi.nlm.nih.gov/22918959/
 1. https://europepmc.org/article/med/31841767
-1. https://pubmed.ncbi.nim.nih.gov/28865725/
-1. https://pubmed.ncbi.nim.nih.gov/27908630/
+1. https://pubmed.ncbi.nlm.nih.gov/28865725/
+1. https://pubmed.ncbi.nlm.nih.gov/27908630/
 1. https://www.niehs.nih.gov/health/topics/science/gene-env/index.cfm#:~:text=Few%20diseases%20result%20from%20a,diet%20choices%2C%200r%20grooming%20products *good*
 1. https://www.who.int/genomics/public/geneticdiseases/en/index3.html
 1. https://www-nature.com/scitable/topicpage/environmental-factors-like-viral-infections-play-a-996/
-1. https://pubmed.ncbi.nim.nih.gov/32613596/
-1. https://pubmed.ncbi.nim.nih.gov/30478005/
+1. https://pubmed.ncbi.nlm.nih.gov/32613596/
+1. https://pubmed.ncbi.nlm.nih.gov/30478005/
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771385/
 
 **screenshot 3**
 
-1. https://pubmed.ncbi.nim.nih.gov/19520201/
-1. https://pubmed.ncbi.nim.nih.gov/17204517/
-1. https://pubmed.ncbi.nim.nih.gov/7504540/
+1. https://pubmed.ncbi.nlm.nih.gov/19520201/
+1. https://pubmed.ncbi.nlm.nih.gov/17204517/
+1. https://pubmed.ncbi.nlm.nih.gov/7504540/
 1. https://www.uscfc.uscourts.gov/sites/default/files/opinions/ABELL.ZELLERO73008.pdf
 1. https://www.mctlaw.com/vaccine-injury/cases/
 1. https://vaers.hhs.gov/about.html
@@ -111,30 +108,30 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
 1. https://www.ncbi.nim.nih.gov/books/NBK236291/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
-1. https://pubmed.ncbi.nim.nih.gov/8182813/
+1. https://pubmed.ncbi.nlm.nih.gov/8182813/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
-1. https://pubmed.ncbi.nim.nih.gov/25247518/
+1. https://pubmed.ncbi.nlm.nih.gov/25247518/
 1. https://beyondtype1.org/type-1-diabetes-statistics/
 1. https://www.nejm.org/doi/full/10,1056/NEJMoa1610187
 1. https://www.nih.gov/news-events/news-releases/rates-new-diagnosed-cases-type-1-type-2-diabetes-rise-among-children-teens
 1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC6026543/
 1. https://www.cdc.gov/lupus/facts/detailed.html *good*
-1. https://pubmed.ncbi.nim.nih.gov/26888980/
-1. https://pubmed.ncbi.nim.nih.gov/6975596/
-1. https://pubmed.ncbi.nim.nih.gov/30770430/
-1. https://pubmed.ncbi.nim.nih.gov/22926499/
-1. https://pubmed.ncbi.nim.nih.gov/27856364/
-1. https://pubmed.ncbi.nim.nih.gov/19709434/
-1. https://pubmed.ncbi.nim.nih.gov/2194431/
+1. https://pubmed.ncbi.nlm.nih.gov/26888980/
+1. https://pubmed.ncbi.nlm.nih.gov/6975596/
+1. https://pubmed.ncbi.nlm.nih.gov/30770430/
+1. https://pubmed.ncbi.nlm.nih.gov/22926499/
+1. https://pubmed.ncbi.nlm.nih.gov/27856364/
+1. https://pubmed.ncbi.nlm.nih.gov/19709434/
+1. https://pubmed.ncbi.nlm.nih.gov/2194431/
 1. https://www.karger.com/Article/Abstract/339248
 1. http://ildcare.eu/Downloads/artseninfo/Sarcoidosis/Chapter%202%20Epidemiology%20of%20sarcoidosis.pdf *good*
-1. https://pubmed.ncbi.nim.nih.gov/27509154/
+1. https://pubmed.ncbi.nlm.nih.gov/27509154/
 1. https://www.aarda.org/rare-autoimmune-diseases-individually-rare-collectively-common/#:~text=The%20American%20Autoimmune%20Related%20Diseases,%2C%20pemphigus% *no good, is cut off in the screen*
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/measles-lighting-round-what-is-measles-how-many-children-have-died-from-measles-what-are-measles-vaccine-side-effects/ *good*
 1. https://jamanetwork.com/journals/jamapediatrics/article-abstract/500100#:~:text=Among%20all%20diseases%20measies%20has,biological%20balance%200ver%20the%20centurie
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-do-not-reliably-prevent-disease/
 1. https://www.cdc.gov/mmwr/volumes/68/wr/mm6840e2.htm
-1. https://pubmed.ncbi.nim.nih.gov/16322148/
+1. https://pubmed.ncbi.nlm.nih.gov/16322148/
 1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC2810910/pdf/10813152.pdf
 
 **screenshot 5**
@@ -156,10 +153,10 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/some-studies-have-found-that-unvaccinated-kids-are-healthier-than-vaccinated-kids/
 1. https://www.c-span.org/video/?¢4589293/user-clip-boyle-vaccinated-vs-unvaccinated
 1. https://childrenshealthdefense.org/wp-content/uploads/Verstraeten-1999-Increased-risk-of-developmental-neurologic-impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf *good*
-1. https://pubmed.ncbi.nim.nih.gov/21058170/
+1. https://pubmed.ncbi.nlm.nih.gov/21058170/
 1. https://www.oatext.com/Pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-U-S-children.php#gsc.tab=0 *good*
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3404712/ *good*
-1. https://pubmed.ncbi.nim.nih.gov/28188123/
+1. https://pubmed.ncbi.nlm.nih.gov/28188123/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/massive-money-mayhem-round/
 1. https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/
 1. https://www.fiercepharma.com/manufacturing/merck-s-gardasil-blockbuster-sales-prompt-1b-plant-expansion
