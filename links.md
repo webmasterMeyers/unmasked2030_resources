@@ -151,7 +151,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.cdc.gov/nchs/nvss/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnvss.htm
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-may-be-making-american-infants-sicker/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/some-studies-have-found-that-unvaccinated-kids-are-healthier-than-vaccinated-kids/
-1. https://www.c-span.org/video/?c4589293/user-clip-boyle-vaccinated-vs-unvaccinated *good*
+1. https://www.c-span.org/video/?c4589293/user-clip-boyle-vaccinated-vs-unvaccinated *good* [longer clip](https://www.c-span.org/video/?c4201064/user-clip-testing-autism-vaccinated-unvaccinated-children)
 1. https://childrenshealthdefense.org/wp-content/uploads/Verstraeten-1999-Increased-risk-of-developmental-neurologic-impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf *good*
 1. https://pubmed.ncbi.nlm.nih.gov/21058170/
 1. https://www.oatext.com/Pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-U-S-children.php#gsc.tab=0 *good*
@@ -192,7 +192,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html#tbox1
 1. https://www.nytimes.com/2020/05/22/health/cdc-coronavirus-touching-surfaces.html
 1. https://www.cdc.gov/coronavirus/2019-ncoviprevent-getting-sick/how-covid-spreads.html
-1. https://www.publichealthontario.ca/-/media/documents/ncov/epi/2020/06/covid 19-epi-case-identification-age-only-template.pdf
+1. https://www.publichealthontario.ca/-/media/documents/ncov/epi/2020/06/covid19-epi-case-identification-age-only-template.pdf
 1. https://www.fda.gov/media/97321/download/ (page 8) *not found*
 1. https://www.sciencedirect.com/science/article/pii/S0924857920304258
 1. https://www.mediterranee-infection.com/wp-content/uploads/2020/03/La-Scola-et-al-V1.pdf *good*
