@@ -151,7 +151,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.cdc.gov/nchs/nvss/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnvss.htm
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-may-be-making-american-infants-sicker/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/some-studies-have-found-that-unvaccinated-kids-are-healthier-than-vaccinated-kids/
-1. https://www.c-span.org/video/?¢4589293/user-clip-boyle-vaccinated-vs-unvaccinated
+1. https://www.c-span.org/video/?c4589293/user-clip-boyle-vaccinated-vs-unvaccinated *good*
 1. https://childrenshealthdefense.org/wp-content/uploads/Verstraeten-1999-Increased-risk-of-developmental-neurologic-impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf *good*
 1. https://pubmed.ncbi.nlm.nih.gov/21058170/
 1. https://www.oatext.com/Pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-U-S-children.php#gsc.tab=0 *good*
