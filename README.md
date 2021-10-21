@@ -1,3 +1,5 @@
+~ ***!notice:*** this is my repo, and this is not a forum for discussion.  Non-code related issues will be closed/deleted etc.  **My personal take** is my opinion, if you don't like it, don't read it.  I am not asking for your opinion even if you agree with me.
+
 # 2030 Unmasked #
 
 ## [2030 UnMasked](https://2030unmasked.com/) ##
