@@ -107,53 +107,85 @@ some links have a *comment* after them. URL's that are not found are marked as s
 
 **screenshot 4**
 
-https://www.uscfc.uscourts.gov/sites/default/files/GUIDELINES%: 20-9201 1.5.2018.pdf
-https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+1. https://www.uscfc.uscourts.gov/sites/default/files/GUIDELINES%20-%2011.5.2018.pdf *page not found*
+1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+1. https://www.ncbi.nim.nih.gov/books/NBK236291/
+1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+1. https://pubmed.ncbi.nim.nih.gov/8182813/
+1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+1. https://pubmed.ncbi.nim.nih.gov/25247518/
+1. https://beyondtype1.org/type-1-diabetes-statistics/
+1. https://www.nejm.org/doi/full/10,1056/NEJMoa1610187
+1. https://www.nih.gov/news-events/news-releases/rates-new-diagnosed-cases-type-1-type-2-diabetes-rise-among-children-teens
+1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC6026543/
+1. https://www.cdc.gov/lupus/facts/detailed.html *good*
+1. https://pubmed.ncbi.nim.nih.gov/26888980/
+1. https://pubmed.ncbi.nim.nih.gov/6975596/
+1. https://pubmed.ncbi.nim.nih.gov/30770430/
+1. https://pubmed.ncbi.nim.nih.gov/22926499/
+1. https://pubmed.ncbi.nim.nih.gov/27856364/
+1. https://pubmed.ncbi.nim.nih.gov/19709434/
+1. https://pubmed.ncbi.nim.nih.gov/2194431/
+1. https://www.karger.com/Article/Abstract/339248
+1. http://ildcare.eu/Downloads/artseninfo/Sarcoidosis/Chapter%202%20Epidemiology%20of%20sarcoidosis.pdf *good*
+1. https://pubmed.ncbi.nim.nih.gov/27509154/
+1. https://www.aarda.org/rare-autoimmune-diseases-individually-rare-collectively-common/#:~text=The%20American%20Autoimmune%20Related%20Diseases,%2C%20pemphigus% *no good, is cut off in the screen*
+1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/measles-lighting-round-what-is-measles-how-many-children-have-died-from-measles-what-are-measles-vaccine-side-effects/ *good*
+1. https://jamanetwork.com/journals/jamapediatrics/article-abstract/500100#:~:text=Among%20all%20diseases%20measies%20has,biological%20balance%200ver%20the%20centurie
+1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-do-not-reliably-prevent-disease/
+1. https://www.cdc.gov/mmwr/volumes/68/wr/mm6840e2.htm
+1. https://pubmed.ncbi.nim.nih.gov/16322148/
+1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC2810910/pdf/10813152.pdf
 
-https://www.ncbi.nim.nih.gov/books/NBK236291/
+**screenshot 5**
 
-https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+Sources
 
-https://pubmed.ncbi.nim.nih.gov/8182813/
+Sources can also be found on the documents throughout the video
 
-https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
+https://academic.oup.com/cid/article/58/9/1205/2895266
+https://wayback.archive-it.org/7993/20170404052136/https:/www.fda.gov/ohrms/dockets/ac/06/transcripts/2006-4222t1 pdf
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-spread-diseases-through-shedding/
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC2883798/
 
-https://pubmed.ncbi.nim.nih.gov/25247518/
+https://www.ncbi.nim.nih.gov/pme/articles/PMC228449/pdf/332485.pdf
 
-https://beyondtype1.org/type-1-diabetes-statistics/
+https://www.cdc.gov/flu/professionals/acip/safety-vaccines.htm
+https://www.who.int/immunization_standards/vaccine_quality/PQ_168_MMR_MSD_PI_July2008.pdf
+https://www.fda.gov/media/76008/download
 
-https://www.nejm.org/doi/full/10,1056/NEJMoa1610187
-https://www.nih.gov/news-events/news-releases/rates-new-diagnosed-cases-type-1-type-2-diabetes-rise-among-children-teens
-https://www.ncbi.nim.nih.gov/pmc/articles/PMC6026543/
+https://www.fda.gov/media/75718/download
 
-https://www.cdc.gov/lupus/facts/detailed.htm!
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6208a2.htm?s_cid%3Dmm6208a2_x
 
-https://pubmed.ncbi.nim.nih.gov/26888980/
+https://www.fda.gov/media/1 19879/download
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-do-not-deserve-the-credit-for-reducing-contagious-diseases/
+https://www.cdc.gov/nchs/nvss/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnvss.htm
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-may-be-making-american-infants-sicker/
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/some-studies-have-found-that-unvaccinated-kids-are-healthier-than-vaccinated-kids/
+https://www.c-span.org/video/?¢4589293/user-clip-boyle-vaccinated-vs-unvaccinated
+https://childrenshealthdefense.org/wp-content/uploads/Verstraeten-1999-Increased-risk-of-developmental-neurologic-
+impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf
 
-https://pubmed.ncbi.nim.nih.gov/6975596/
+https://pubmed.ncbi.nim.nih.gov/21058170/
+https://www.oatext.com/Pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-1 2-year-old-U-S-children.php#gsc.tab=0
+https://www.ncbi.nim.nih.gov/pmc/articles/PMC34047 12/
 
-https://pubmed.ncbi.nim.nih.gov/30770430/
+https://pubmed.ncbi.nim.nih.gov/28188123/
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/massive-money-mayhem-round/
+https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/
+https://www.fiercepharma.com/manufacturing/merck-s-gardasil-blockbuster-sales-prompt-1b-plant-expansion
+https://web.archive.org/web/20170223195942/https:/www.fda.gov/ohrms/dockets/ac/06/briefing/2006-422283,.pdf
+https://childrenshealthdefense.org/vaccine-secrets/video-chapters/the-fda-cdc-media-and-politicians-receive-money-from-vaccine-makers/
+https://www.fda.gov/about-fda/fda-basics/fact-sheet-fda-glance#:~:text=Program%20Funding,%249.63%20per%20American%20per%20year.
+https://www.fda.gov/about-fda/fda-basics/fact-sheet-fda-glance#: ~textProgra20Funcing %249.69%20perM20Ameri anh 20per20 eat
 
-https://pubmed.ncbi.nim.nih.gov/22926499/
+httme J heneme: memes lion mer Jarticle Mela ror sice inet vebrs bus er cehine viele. ries ime te om nel nin obavt— A eOl Mink sere Ot Wien amines 3m ele
+its Maw Dropuonce. OrG/articie/\aa-Tepays Maus yoy Tustiiid TnY Gruds tO Marne ts—~ teat SAS Uecprian tia Gecce as
 
-https://pubmed.ncbi.nim.nih.gov/27856364/
+ 
 
-https://pubmed.ncbi.nim.nih.gov/19709434/
+ 
 
-https://pubmed.ncbi.nim.nih.gov/2194431/
-
-https://www.karger.com/Article/Abstract/339248
-
-http://ildcare.eu/Downloads/artseninfo/Sarcoidosis/Chapter%202%20Epidemiology%200f%20sarcoidosis.pdf
-
-https://pubmed.ncbi.nim.nih.gov/27509154/
-https://www.aarda.org/rare-autoimmune-diseases-individually-rare-collectively-common/#:~text=The%20American%20Autoimmune%20Related%20Diseases, %2C %20pemphigus>
-https://childrenshealthdefense.org/vaccine-secrets/video-chapters/measles-lighting-round-what-is-measles-how-many-children-have-died-from-measles-what-are-measles-vaccine-:
-https://jamanetwork.com/journals/jamapediatrics/article-abstract/500 1 00#:~:text=Among%20all%20diseases%20measies% 20has, biological%20balance%200ver% 20the%20centurie
-https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-do-not-reliably-prevent-disease/
-
-https://www.cdc.gov/mmwr/volumes/68/wr/mm6840e2.htm
-
-https://pubmed.ncbi.nim.nih.gov/16322148/
-
-https://www.ncbi.nim.nih.gov/pmc/articles/PMC2810910/pdf/10813152.pdf
+ 
+
