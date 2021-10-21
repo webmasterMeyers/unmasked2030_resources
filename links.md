@@ -16,12 +16,12 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://theliberal.ie/hollands-top-scientists-start-debate-by-claiming-theres-no-evidence-face-masks-work-in-fighting-the-pandemic/?7utm_source=share&utm_medium=ios_app
 1. https://m.youtube.com/watch?v=QNI2ocgosgA&utm_source=share&iutm_medium=ios_app
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/today-a-child-receives-50-doses-of-14-vaccines-by-the-age-of-6-and-69-doses-of-16-vaccines-by-the-age-of-18/
-1. https://www.aap.org/en-us/Documents/coding_vaccine_coding_table.pdf
+1. https://www.aap.org/en-us/Documents/coding_vaccine_coding_table.pdf *redirects to home page, pdf missing*
 1. https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/the-fda-does-not-safety-test-vaccines/
 1. https://www.fda.gov/media/83528/download
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/the-entire-vaccine-schedule-has-never-been-safety-tested/
-1. https://www.ncbi.nim.nih.gov/books/NBK206938/
+1. https://www.ncbi.nlm.nih.gov/books/NBK206938/
 1. https://www.nap.edu/read/12709/chapter/2
 1. https://jamanetwork.com/journals/jama/fullarticle/2673970
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids/
@@ -50,9 +50,9 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. http://www.violinet.org/vaxjo/vaxjo_detail.php?c_vaxjo_id=79
 1. https://www.atsdr.cdc.gov/toxprofiles/tp22-c3.pdf
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-contain-dangerous-ingredients-small-doses-can-be-unhealthy-disease-is-a-product-of-genetics-and-environment/
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC153983/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153983/
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181015/
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC112645/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC112645/
 1. https://en.wikipedia.org/wiki/List_of_vaccine_ingredients
 1. http://www.ourstolenfuture.com/NewScience/lowdose/lowdoseeffects.htm
 1. https://endocrinedisruption.org/assets/media/documents/2007-04-30_does_the_dose_make_the_poison.pdf
@@ -106,7 +106,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 
 1. https://www.uscfc.uscourts.gov/sites/default/files/GUIDELINES%20-%2011.5.2018.pdf *page not found*
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
-1. https://www.ncbi.nim.nih.gov/books/NBK236291/
+1. https://www.ncbi.nlm.nih.gov/books/NBK236291/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
 1. https://pubmed.ncbi.nlm.nih.gov/8182813/
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-cause-autoimmune-diseases/
@@ -114,7 +114,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://beyondtype1.org/type-1-diabetes-statistics/
 1. https://www.nejm.org/doi/full/10,1056/NEJMoa1610187
 1. https://www.nih.gov/news-events/news-releases/rates-new-diagnosed-cases-type-1-type-2-diabetes-rise-among-children-teens
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC6026543/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026543/
 1. https://www.cdc.gov/lupus/facts/detailed.html *good*
 1. https://pubmed.ncbi.nlm.nih.gov/26888980/
 1. https://pubmed.ncbi.nlm.nih.gov/6975596/
@@ -132,15 +132,15 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-do-not-reliably-prevent-disease/
 1. https://www.cdc.gov/mmwr/volumes/68/wr/mm6840e2.htm
 1. https://pubmed.ncbi.nlm.nih.gov/16322148/
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC2810910/pdf/10813152.pdf
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810910/pdf/10813152.pdf
 
 **screenshot 5**
 
 1. https://academic.oup.com/cid/article/58/9/1205/2895266
 1. https://wayback.archive-it.org/7993/20170404052136/https:/www.fda.gov/ohrms/dockets/ac/06/transcripts/2006-4222t1.pdf *good*
 1. https://childrenshealthdefense.org/vaccine-secrets/video-chapters/vaccines-can-spread-diseases-through-shedding/
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC2883798/
-1. https://www.ncbi.nim.nih.gov/pme/articles/PMC228449/pdf/332485.pdf
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883798/
+1. https://www.ncbi.nlm.nih.gov/pme/articles/PMC228449/pdf/332485.pdf
 1. https://www.cdc.gov/flu/professionals/acip/safety-vaccines.htm *good*
 1. https://www.who.int/immunization_standards/vaccine_quality/PQ_168_MMR_MSD_PI_July2008.pdf
 1. https://www.fda.gov/media/76008/download
@@ -183,7 +183,7 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.biopharmadive.com/news/pharma-ad-dtc-marketing-2018-spend-TV-congress/533319/
 1. https://www.fiercepharma.com/marketing/pharma-tv-ad-spending-for-2019-finishes-flat-compared-to-previous-year
 1. https://www.mmm-online.com/home/channel/health-pharma-tv-ad-spending-stays-strong/
-1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC7054854/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054854/
 1. https://www.opensecrets.org/industries/indus.php?ind=h04
 1. https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/
 1. https://www.cbsnews.com/news/how-independent-are-vaccine-defenders/
