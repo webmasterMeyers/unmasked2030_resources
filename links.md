@@ -168,3 +168,35 @@ some links have a *comment* after them. URL's that are not found are marked as s
 1. https://www.fda.gov/about-fda/fda-basics/fact-sheet-fda-glance#:~:text=Program%20Funding,%249.63%20per%20American%20per%20year *good* *same as next link*
 1. https://www.fda.gov/about-fda/fda-basics/fact-sheet-fda-glance#:~textProgra20Funcing%249.69%20perM20Amerianh20per20eat *good* *same as prev link*
 1. https://www.propublica.org/article/fda-repays-industry-by-rushing-risky-drugs-to-market *good*
+
+**screenshot 6**
+
+1. https://www.biospace.com/article/investigation-examines-big-pharma-payments-to-fda-advisers/#:~:text=The%20investigators%20looked%20form20evidence,is%20and%20ruling *good*
+1. https://www.govinfo.gov/content/pkg/CHRG-106hhrg73042/html/CHRG-106hhrg73042.htm
+1. https://www.upi.com/Odd_News/2003/07/21/UPI-investigates-The-vaccine-conflict/44221058841736/?ur3=1
+1. https://www.cde.gov/os/technology/techtransfer/industry/licensing/technologies.htm
+1. https://www.greenmedinfo.com/blog/examining-rfk-jrs-claim-cdc-owns-over-20-vaccine-patents
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613164/#:~:text=Taxpayers%20fund%20the%20NIH%3B%20the,core%20are%20two%20fundamental%20principles
+1. https://www.ott.nih.gov/licensing
+1. https://www.ott.nih.gov/resources#MLA
+1. https://www.cdc.gov/vaccines/programs/vic/about/vac-supply-policy/index.html
+1. https://en.wikipedia.org/wiki/Vaccines_for_Children_Program#:~:text=Due%20to%20the%20VFC%20program,administered%20in%20the%20United%20States,
+1. https://www.upi.com/Odd_News/2003/07/21/UPI-Investigates-The-vaccine-conflict/44221058841736/?ur3=1
+1. https://www.govinfo.gov/content/pkg/CHRG-106hhrg73042/html/CHRG-106hhrg73042.htm
+1. https://www.biopharmadive.com/news/pharma-ad-dtc-marketing-2018-spend-TV-congress/533319/
+1. https://www.fiercepharma.com/marketing/pharma-tv-ad-spending-for-2019-finishes-flat-compared-to-previous-year
+1. https://www.mmm-online.com/home/channel/health-pharma-tv-ad-spending-stays-strong/
+1. https://www.ncbi.nim.nih.gov/pmc/articles/PMC7054854/
+1. https://www.opensecrets.org/industries/indus.php?ind=h04
+1. https://www.pharmaceuticalprocessingworld.com/global-vaccine-market-revenue-to-reach-59-2-billion-by-2020/
+1. https://www.cbsnews.com/news/how-independent-are-vaccine-defenders/
+1. https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
+1. https://thefederalist.com/2020/11/23/many-studies-find-that-cloth-masks-do-not-stop-viruses-like-covid/
+1. https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html#tbox1
+1. https://www.nytimes.com/2020/05/22/health/cdc-coronavirus-touching-surfaces.html
+1. https://www.cdc.gov/coronavirus/2019-ncoviprevent-getting-sick/how-covid-spreads.html
+1. https://www.publichealthontario.ca/-/media/documents/ncov/epi/2020/06/covid 19-epi-case-identification-age-only-template.pdf
+1. https://www.fda.gov/media/97321/download/ (page 8) *not found*
+1. https://www.sciencedirect.com/science/article/pii/S0924857920304258
+1. https://www.mediterranee-infection.com/wp-content/uploads/2020/03/La-Scola-et-al-V1.pdf *good*
+1. https://bestlifeonline.com/ede-coronavirus-tests-inaccurate/ *not found* alt's https://bestlifeonline.com/?s=corona+virus+tests+inaccurate
