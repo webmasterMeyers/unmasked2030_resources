@@ -10,4 +10,4 @@ This documentary is for anyone realizing something is wrong in the world.  Espec
 
 ## Why this repo? ##
 
-The beginning and end of this documentary contain multiple screens of references.  This repo is a list of clickable links to those resources.
+The beginning and end of this documentary contain multiple screens of references.  This repo is a [list of clickable links](./links.md) to those resources.
