@@ -18,6 +18,8 @@ This documentary is for anyone realizing something is wrong in the world.  Espec
 
 The beginning and end of this documentary contain multiple screens of references.  This repo is a [list of clickable links](./links.md) to those resources.
 
+If a link does not work, you can look at the original screen shot in the [ScreenShots](./ScreenShots/) folder.  If you determine a correct working link, I would appreciate if you passed it back to me either by opening an issue or doing a PR.
+
 ## My personal take ##
 
 It as he says in the very beginning of the video, question ***EVERYTHING*** including what he is telling you.
